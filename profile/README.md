@@ -24,7 +24,6 @@
 
 - [写给新生的知识库](https://github.com/CUC-Life-Hack/freshman-101/wiki)：新生入学需要了解的方方面面。
 - [考试技巧](https://github.com/CUC-Life-Hack/exam-tricks/wiki)：在各种平台、各种场合、各种要求下考试的注意事项和技巧。
-- [定福庄烂事](https://cuc-life-hack.github.io/where-cuc-sucks/)：凡中传之所不传者。
 
 ### 网课外挂
 
