@@ -21,7 +21,7 @@
 我们基于 userscript 制作了一些常见的网课网站的外挂，可以帮助你绕开一些无谓的限制：
 
 - [畅课 Hack](https://github.com/CUC-Life-Hack/tronclass-hack)：用于畅课视频页，十倍速刷视频。
-- [雨课堂 Hack](https://github.com/CUC-Life-Hack/rainclass-hack)：用于雨课堂课件页，一键刷视频、PPT。
+- [雨课堂 Hack](https://github.com/CUC-Life-Hack/rainclass-hack)：用于雨课堂课件页，一键刷视频。
 - [雨课堂考试 Hack](https://github.com/CUC-Life-Hack/rainclass-exam-hack)：用于雨课堂考试页，解锁限制、屏蔽检测。
 - [简道云打卡 Hack](https://github.com/CUC-Life-Hack/jdy-checkin)（未完成）：浏览器打卡辅助工具，绕开表单限制，自由填写数据。
 	> 2023/1/2 注：很高兴看到打卡平台的死亡，虽然这个 hack 脚本仍停留在原型的阶段，但说不定以后还会有用。现存档冻结。
@@ -32,9 +32,7 @@
 
 ### 题库
 
-我们整理了一些题库：
-
-- [马院政治课题库](https://github.com/CUC-Life-Hack/commie-question-base)
+我们将过往的考试与测验按照学科与时间，归档成了[题库](https://github.com/CUC-Life-Hack/exam-archives)。
 
 ## 反馈
 
